@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 # Nuestro cliente es el mejor
+
+Este es un fichero muy chulo.
 
 Hola, esto es un fichero de lectura para nuestro repositorio
 
