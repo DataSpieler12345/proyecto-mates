@@ -1,0 +1,3 @@
+# Historia de la rama Master
+
+Hace una semana habiamos iniciado el curso de Git para aprender a manejar todo lo que ofrece este tecnologia y el controal de versiones en proyecto IT y colaboracion en equipo.![main branch](https://user-images.githubusercontent.com/45371372/195165358-e223044e-1f86-4774-ae8a-b3fbb05c8497.png)
