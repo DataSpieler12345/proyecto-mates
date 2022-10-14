@@ -1,7 +1,7 @@
 
 # Historia de la rama Master
  
-Y dentro de poco terminamos este curso super mega interesante....
+Este curso se ha realizado en los meses de septiembre y octubre.
 
 ## Inicios de la rama
 
